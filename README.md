@@ -16,3 +16,4 @@ Read Implemented
 - []    []       YOUR CLASSIFIER IS SECRETLY AN ENERGY BASED MODEL AND YOU SHOULD TREAT IT LIKE ONE
 - []    []       CornerNet: Detecting Objects as Paired Keypoints
 - []    []       CenterNet: Keypoint Triplets for Object Detection
+- []    [x]      Group Normalization
